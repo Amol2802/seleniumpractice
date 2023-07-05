@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 
 public class TestLogger {
 	
-/*
+/*   public static String str;
 		public static WebDriver driver;
 		public static Logger log;
 		public static void main(String[] args) {
